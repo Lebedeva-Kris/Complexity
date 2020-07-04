@@ -28,3 +28,4 @@ public class RadioTest {
         radio.setCurrentRadioStation(0);
         assertEquals(9, radio.getCurrentRadioStation());
     }
+}
